@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Facts About Numbers</string>
+    <string name="get_random_number_fact">Get fact about random numberModel</string>
+    <string name="get_fact">Get Fact</string>
+    <string name="et_hint">Type numberModel here</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toggle_sort_order">Toggle Sort Order</string>
+
+    <string name="fact_is_present">This fact is already present</string>
+</resources>
